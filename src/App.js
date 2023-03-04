@@ -1,7 +1,8 @@
 import "./App.css";
+import Home from "./pages/HOME"
 
 function App() {
-  return <h1>FII Practic 2023</h1>;
+  return <Home> </Home>;
 }
 
 export default App;
